@@ -1,6 +1,6 @@
 {
-  "name": "PPL 테스트 매니저",
-  "short_name": "PPL 테스트 매니저",
+  "name": "PPL Testapp",
+  "short_name": "PPL Testapp",
   "description": "PPL 사이니징 프로젝트 관리 툴",
   "start_url": "./index.html",
   "display": "standalone",
